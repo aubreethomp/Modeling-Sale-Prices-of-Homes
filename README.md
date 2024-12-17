@@ -1,5 +1,5 @@
-## Modeling-Sale-Prices-of-Homes
-# A regression analysis model with interaction was used to predict the sale price of homes. 
+# Modeling-Sale-Prices-of-Homes
+## A regression analysis model with interaction was used to predict the sale price of homes. 
 Aubree Thompson
 
 Predictive Modeling of House Sale Prices
